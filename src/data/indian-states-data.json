@@ -1,0 +1,415 @@
+{
+  "Maharashtra": {
+    "fullName": "Maharashtra",
+    "svgId": "INMH",
+    "totals": { "total_startups": 1850, "unicorns_total": 28, "women_led_total": 370 },
+    "startups_by_sector": { "FinTech": 520, "EdTech": 380, "E-commerce": 420, "HealthTech": 310, "AgriTech": 220 },
+    "funding_by_sector": { "FinTech": 4800, "EdTech": 2200, "E-commerce": 3100, "HealthTech": 1800, "AgriTech": 1200 },
+    "startups_growth_yearly": { "2019": 680, "2020": 920, "2021": 1200, "2022": 1450, "2023": 1650, "2024": 1850 },
+    "top_cities_by_startups": { "Mumbai": 980, "Pune": 520, "Nagpur": 180, "Nashik": 120, "Aurangabad": 50 },
+    "startup_stage_distribution": { "Seed": 740, "Series A": 550, "Series B": 320, "Growth": 240 },
+    "employment_data": { "total_jobs": 125000, "avg_salary": 850000, "top_skills": ["JavaScript", "Python", "React", "Node.js", "AWS"] }
+  },
+  "Gujarat": {
+    "fullName": "Gujarat",
+    "svgId": "INGJ",
+    "totals": { "total_startups": 1200, "unicorns_total": 15, "women_led_total": 240 },
+    "startups_by_sector": { "Manufacturing": 380, "CleanTech": 290, "FinTech": 220, "AgriTech": 180, "Logistics": 130 },
+    "funding_by_sector": { "Manufacturing": 2800, "CleanTech": 2200, "FinTech": 1600, "AgriTech": 1100, "Logistics": 800 },
+    "startups_growth_yearly": { "2019": 420, "2020": 580, "2021": 750, "2022": 920, "2023": 1080, "2024": 1200 },
+    "top_cities_by_startups": { "Ahmedabad": 480, "Surat": 320, "Vadodara": 220, "Rajkot": 120, "Gandhinagar": 60 },
+    "startup_stage_distribution": { "Seed": 480, "Series A": 360, "Series B": 240, "Growth": 120 },
+    "employment_data": { "total_jobs": 85000, "avg_salary": 720000, "top_skills": ["Manufacturing", "Solar Tech", "Chemical Eng", "IoT", "Automation"] }
+  },
+  "Tamil Nadu": {
+    "fullName": "Tamil Nadu",
+    "svgId": "INTN",
+    "totals": { "total_startups": 1450, "unicorns_total": 18, "women_led_total": 290 },
+    "startups_by_sector": { "Automotive": 420, "IT Services": 380, "HealthTech": 280, "EdTech": 220, "Manufacturing": 150 },
+    "funding_by_sector": { "Automotive": 3200, "IT Services": 2800, "HealthTech": 1900, "EdTech": 1400, "Manufacturing": 1000 },
+    "startups_growth_yearly": { "2019": 520, "2020": 680, "2021": 890, "2022": 1100, "2023": 1280, "2024": 1450 },
+    "top_cities_by_startups": { "Chennai": 720, "Coimbatore": 380, "Madurai": 180, "Tiruchirappalli": 120, "Salem": 50 },
+    "startup_stage_distribution": { "Seed": 580, "Series A": 435, "Series B": 290, "Growth": 145 },
+    "employment_data": { "total_jobs": 98000, "avg_salary": 780000, "top_skills": ["Automotive Tech", "Java", "Python", "Embedded Systems", "AI/ML"] }
+  },
+  "Karnataka": {
+    "fullName": "Karnataka",
+    "svgId": "INKA",
+    "totals": { "total_startups": 2100, "unicorns_total": 35, "women_led_total": 420 },
+    "startups_by_sector": { "IT Services": 680, "SaaS": 520, "FinTech": 380, "DeepTech": 280, "HealthTech": 240 },
+    "funding_by_sector": { "IT Services": 5200, "SaaS": 4800, "FinTech": 3400, "DeepTech": 2600, "HealthTech": 1800 },
+    "startups_growth_yearly": { "2019": 780, "2020": 1020, "2021": 1320, "2022": 1620, "2023": 1860, "2024": 2100 },
+    "top_cities_by_startups": { "Bengaluru": 1680, "Mysuru": 220, "Hubli": 120, "Mangalore": 80 },
+    "startup_stage_distribution": { "Seed": 840, "Series A": 630, "Series B": 420, "Growth": 210 },
+    "employment_data": { "total_jobs": 180000, "avg_salary": 950000, "top_skills": ["Java", "Python", "React", "Kubernetes", "Machine Learning"] }
+  },
+  "Kerala": {
+    "fullName": "Kerala",
+    "svgId": "INKL",
+    "totals": { "total_startups": 920, "unicorns_total": 8, "women_led_total": 184 },
+    "startups_by_sector": { "IT Services": 320, "Tourism Tech": 180, "HealthTech": 160, "AgriTech": 140, "EdTech": 120 },
+    "funding_by_sector": { "IT Services": 2200, "Tourism Tech": 1200, "HealthTech": 1100, "AgriTech": 900, "EdTech": 700 },
+    "startups_growth_yearly": { "2019": 320, "2020": 450, "2021": 580, "2022": 720, "2023": 820, "2024": 920 },
+    "top_cities_by_startups": { "Kochi": 380, "Thiruvananthapuram": 280, "Kozhikode": 160, "Thrissur": 100 },
+    "startup_stage_distribution": { "Seed": 368, "Series A": 276, "Series B": 184, "Growth": 92 },
+    "employment_data": { "total_jobs": 62000, "avg_salary": 680000, "top_skills": ["Tourism Tech", "Ayurveda Tech", "Marine Tech", "Spice Tech", "IT Services"] }
+  }
+,
+  "Uttar Pradesh": {
+    "fullName": "Uttar Pradesh",
+    "svgId": "INUP",
+    "totals": { "total_startups": 1380, "unicorns_total": 12, "women_led_total": 276 },
+    "startups_by_sector": { "IT Services": 480, "EdTech": 320, "FinTech": 280, "AgriTech": 180, "HealthTech": 120 },
+    "funding_by_sector": { "IT Services": 2800, "EdTech": 2200, "FinTech": 1900, "AgriTech": 1200, "HealthTech": 800 },
+    "startups_growth_yearly": { "2019": 480, "2020": 620, "2021": 820, "2022": 1020, "2023": 1200, "2024": 1380 },
+    "top_cities_by_startups": { "Noida": 520, "Lucknow": 380, "Kanpur": 220, "Ghaziabad": 160, "Varanasi": 100 },
+    "startup_stage_distribution": { "Seed": 552, "Series A": 414, "Series B": 276, "Growth": 138 },
+    "employment_data": { "total_jobs": 92000, "avg_salary": 650000, "top_skills": ["Java", "Python", "EdTech Platforms", "Mobile Development", "Data Analytics"] }
+  },
+  "Goa": {
+    "fullName": "Goa",
+    "svgId": "INGA",
+    "totals": { "total_startups": 280, "unicorns_total": 2, "women_led_total": 56 },
+    "startups_by_sector": { "Tourism Tech": 120, "IT Services": 80, "FinTech": 40, "HealthTech": 25, "CleanTech": 15 },
+    "funding_by_sector": { "Tourism Tech": 800, "IT Services": 600, "FinTech": 400, "HealthTech": 200, "CleanTech": 150 },
+    "startups_growth_yearly": { "2019": 80, "2020": 120, "2021": 160, "2022": 200, "2023": 240, "2024": 280 },
+    "top_cities_by_startups": { "Panaji": 120, "Margao": 80, "Vasco da Gama": 50, "Mapusa": 30 },
+    "startup_stage_distribution": { "Seed": 112, "Series A": 84, "Series B": 56, "Growth": 28 },
+    "employment_data": { "total_jobs": 18000, "avg_salary": 720000, "top_skills": ["Tourism Tech", "Hospitality Tech", "Web Development", "Mobile Apps", "Digital Marketing"] }
+  },
+  "Rajasthan": {
+    "fullName": "Rajasthan",
+    "svgId": "INRJ",
+    "totals": { "total_startups": 850, "unicorns_total": 6, "women_led_total": 170 },
+    "startups_by_sector": { "Tourism Tech": 280, "IT Services": 220, "CleanTech": 180, "Handicrafts": 120, "AgriTech": 50 },
+    "funding_by_sector": { "Tourism Tech": 1800, "IT Services": 1400, "CleanTech": 1200, "Handicrafts": 600, "AgriTech": 400 },
+    "startups_growth_yearly": { "2019": 280, "2020": 380, "2021": 520, "2022": 650, "2023": 750, "2024": 850 },
+    "top_cities_by_startups": { "Jaipur": 420, "Udaipur": 180, "Jodhpur": 140, "Kota": 80, "Ajmer": 30 },
+    "startup_stage_distribution": { "Seed": 340, "Series A": 255, "Series B": 170, "Growth": 85 },
+    "employment_data": { "total_jobs": 58000, "avg_salary": 620000, "top_skills": ["Tourism Tech", "Solar Energy", "Handicraft Tech", "Heritage Tech", "Desert Tech"] }
+  },
+  "Telangana": {
+    "fullName": "Telangana",
+    "svgId": "INTG",
+    "totals": { "total_startups": 1650, "unicorns_total": 22, "women_led_total": 330 },
+    "startups_by_sector": { "IT Services": 580, "Pharma Tech": 420, "FinTech": 320, "HealthTech": 220, "AgriTech": 110 },
+    "funding_by_sector": { "IT Services": 4200, "Pharma Tech": 3800, "FinTech": 2600, "HealthTech": 1800, "AgriTech": 900 },
+    "startups_growth_yearly": { "2019": 580, "2020": 750, "2021": 980, "2022": 1220, "2023": 1450, "2024": 1650 },
+    "top_cities_by_startups": { "Hyderabad": 1320, "Warangal": 180, "Nizamabad": 80, "Karimnagar": 70 },
+    "startup_stage_distribution": { "Seed": 660, "Series A": 495, "Series B": 330, "Growth": 165 },
+    "employment_data": { "total_jobs": 142000, "avg_salary": 880000, "top_skills": ["Pharma Tech", "Java", "Python", "Biotechnology", "Data Science"] }
+  },
+  "Delhi": {
+    "fullName": "Delhi",
+    "svgId": "INDL",
+    "totals": { "total_startups": 1950, "unicorns_total": 32, "women_led_total": 390 },
+    "startups_by_sector": { "FinTech": 620, "E-commerce": 480, "EdTech": 380, "HealthTech": 280, "Logistics": 190 },
+    "funding_by_sector": { "FinTech": 5800, "E-commerce": 4200, "EdTech": 3400, "HealthTech": 2200, "Logistics": 1600 },
+    "startups_growth_yearly": { "2019": 720, "2020": 950, "2021": 1250, "2022": 1520, "2023": 1750, "2024": 1950 },
+    "top_cities_by_startups": { "New Delhi": 780, "Gurgaon": 620, "Noida": 380, "Faridabad": 120, "Ghaziabad": 50 },
+    "startup_stage_distribution": { "Seed": 780, "Series A": 585, "Series B": 390, "Growth": 195 },
+    "employment_data": { "total_jobs": 165000, "avg_salary": 920000, "top_skills": ["FinTech", "E-commerce", "Digital Marketing", "Data Analytics", "Mobile Development"] }
+  }
+,
+  "Andhra Pradesh": {
+    "fullName": "Andhra Pradesh",
+    "svgId": "INAP",
+    "totals": { "total_startups": 780, "unicorns_total": 5, "women_led_total": 156 },
+    "startups_by_sector": { "IT Services": 280, "AgriTech": 220, "FinTech": 140, "HealthTech": 80, "EdTech": 60 },
+    "funding_by_sector": { "IT Services": 1800, "AgriTech": 1400, "FinTech": 900, "HealthTech": 600, "EdTech": 400 },
+    "startups_growth_yearly": { "2019": 280, "2020": 380, "2021": 490, "2022": 600, "2023": 690, "2024": 780 },
+    "top_cities_by_startups": { "Visakhapatnam": 320, "Vijayawada": 240, "Guntur": 120, "Tirupati": 100 },
+    "startup_stage_distribution": { "Seed": 312, "Series A": 234, "Series B": 156, "Growth": 78 },
+    "employment_data": { "total_jobs": 52000, "avg_salary": 640000, "top_skills": ["AgriTech", "Java", "Python", "Data Analytics", "Cloud Computing"] }
+  },
+  "Arunachal Pradesh": {
+    "fullName": "Arunachal Pradesh",
+    "svgId": "INAR",
+    "totals": { "total_startups": 85, "unicorns_total": 0, "women_led_total": 17 },
+    "startups_by_sector": { "Tourism Tech": 35, "AgriTech": 25, "Handicrafts": 15, "IT Services": 7, "CleanTech": 3 },
+    "funding_by_sector": { "Tourism Tech": 180, "AgriTech": 140, "Handicrafts": 80, "IT Services": 50, "CleanTech": 30 },
+    "startups_growth_yearly": { "2019": 25, "2020": 35, "2021": 48, "2022": 62, "2023": 74, "2024": 85 },
+    "top_cities_by_startups": { "Itanagar": 45, "Naharlagun": 20, "Pasighat": 12, "Tawang": 8 },
+    "startup_stage_distribution": { "Seed": 51, "Series A": 25, "Series B": 7, "Growth": 2 },
+    "employment_data": { "total_jobs": 4200, "avg_salary": 480000, "top_skills": ["Tourism Tech", "Organic Farming", "Handicrafts", "Eco Tourism", "Web Development"] }
+  },
+  "Assam": {
+    "fullName": "Assam",
+    "svgId": "INAS",
+    "totals": { "total_startups": 420, "unicorns_total": 2, "women_led_total": 84 },
+    "startups_by_sector": { "AgriTech": 150, "IT Services": 120, "Tourism Tech": 80, "HealthTech": 40, "EdTech": 30 },
+    "funding_by_sector": { "AgriTech": 800, "IT Services": 650, "Tourism Tech": 420, "HealthTech": 280, "EdTech": 180 },
+    "startups_growth_yearly": { "2019": 140, "2020": 190, "2021": 250, "2022": 320, "2023": 370, "2024": 420 },
+    "top_cities_by_startups": { "Guwahati": 280, "Dibrugarh": 70, "Silchar": 40, "Jorhat": 30 },
+    "startup_stage_distribution": { "Seed": 210, "Series A": 147, "Series B": 42, "Growth": 21 },
+    "employment_data": { "total_jobs": 28000, "avg_salary": 520000, "top_skills": ["Tea Tech", "AgriTech", "Java", "Tourism Tech", "Mobile Development"] }
+  },
+  "Bihar": {
+    "fullName": "Bihar",
+    "svgId": "INBR",
+    "totals": { "total_startups": 520, "unicorns_total": 3, "women_led_total": 104 },
+    "startups_by_sector": { "EdTech": 180, "AgriTech": 150, "IT Services": 100, "HealthTech": 60, "FinTech": 30 },
+    "funding_by_sector": { "EdTech": 950, "AgriTech": 780, "IT Services": 520, "HealthTech": 380, "FinTech": 220 },
+    "startups_growth_yearly": { "2019": 180, "2020": 240, "2021": 310, "2022": 390, "2023": 460, "2024": 520 },
+    "top_cities_by_startups": { "Patna": 320, "Gaya": 80, "Bhagalpur": 60, "Muzaffarpur": 60 },
+    "startup_stage_distribution": { "Seed": 260, "Series A": 182, "Series B": 52, "Growth": 26 },
+    "employment_data": { "total_jobs": 34000, "avg_salary": 480000, "top_skills": ["EdTech", "AgriTech", "Java", "Python", "Mobile Apps"] }
+  },
+  "Chhattisgarh": {
+    "fullName": "Chhattisgarh",
+    "svgId": "INCT",
+    "totals": { "total_startups": 320, "unicorns_total": 1, "women_led_total": 64 },
+    "startups_by_sector": { "Mining Tech": 110, "AgriTech": 90, "IT Services": 70, "Manufacturing": 35, "HealthTech": 15 },
+    "funding_by_sector": { "Mining Tech": 680, "AgriTech": 520, "IT Services": 380, "Manufacturing": 240, "HealthTech": 120 },
+    "startups_growth_yearly": { "2019": 110, "2020": 150, "2021": 195, "2022": 240, "2023": 280, "2024": 320 },
+    "top_cities_by_startups": { "Raipur": 180, "Bhilai": 80, "Bilaspur": 40, "Korba": 20 },
+    "startup_stage_distribution": { "Seed": 160, "Series A": 112, "Series B": 32, "Growth": 16 },
+    "employment_data": { "total_jobs": 21000, "avg_salary": 540000, "top_skills": ["Mining Tech", "AgriTech", "Manufacturing", "Java", "Data Analytics"] }
+  }
+,
+  "Haryana": {
+    "fullName": "Haryana",
+    "svgId": "INHR",
+    "totals": { "total_startups": 980, "unicorns_total": 10, "women_led_total": 196 },
+    "startups_by_sector": { "IT Services": 350, "FinTech": 240, "E-commerce": 180, "EdTech": 130, "HealthTech": 80 },
+    "funding_by_sector": { "IT Services": 2200, "FinTech": 1800, "E-commerce": 1300, "EdTech": 900, "HealthTech": 600 },
+    "startups_growth_yearly": { "2019": 340, "2020": 460, "2021": 600, "2022": 750, "2023": 870, "2024": 980 },
+    "top_cities_by_startups": { "Gurugram": 520, "Faridabad": 240, "Panipat": 120, "Ambala": 100 },
+    "startup_stage_distribution": { "Seed": 392, "Series A": 294, "Series B": 196, "Growth": 98 },
+    "employment_data": { "total_jobs": 78000, "avg_salary": 820000, "top_skills": ["Java", "Python", "React", "FinTech", "Cloud Computing"] }
+  },
+  "Himachal Pradesh": {
+    "fullName": "Himachal Pradesh",
+    "svgId": "INHP",
+    "totals": { "total_startups": 240, "unicorns_total": 1, "women_led_total": 48 },
+    "startups_by_sector": { "Tourism Tech": 90, "AgriTech": 60, "IT Services": 50, "Handicrafts": 25, "CleanTech": 15 },
+    "funding_by_sector": { "Tourism Tech": 480, "AgriTech": 340, "IT Services": 280, "Handicrafts": 150, "CleanTech": 100 },
+    "startups_growth_yearly": { "2019": 80, "2020": 110, "2021": 145, "2022": 180, "2023": 210, "2024": 240 },
+    "top_cities_by_startups": { "Shimla": 120, "Dharamshala": 60, "Manali": 35, "Solan": 25 },
+    "startup_stage_distribution": { "Seed": 120, "Series A": 84, "Series B": 24, "Growth": 12 },
+    "employment_data": { "total_jobs": 15000, "avg_salary": 560000, "top_skills": ["Tourism Tech", "Apple Tech", "Organic Farming", "Web Development", "Digital Marketing"] }
+  },
+  "Jharkhand": {
+    "fullName": "Jharkhand",
+    "svgId": "INJH",
+    "totals": { "total_startups": 380, "unicorns_total": 2, "women_led_total": 76 },
+    "startups_by_sector": { "Mining Tech": 130, "IT Services": 110, "AgriTech": 80, "EdTech": 40, "HealthTech": 20 },
+    "funding_by_sector": { "Mining Tech": 720, "IT Services": 580, "AgriTech": 420, "EdTech": 260, "HealthTech": 140 },
+    "startups_growth_yearly": { "2019": 130, "2020": 175, "2021": 230, "2022": 285, "2023": 335, "2024": 380 },
+    "top_cities_by_startups": { "Ranchi": 220, "Jamshedpur": 100, "Dhanbad": 40, "Bokaro": 20 },
+    "startup_stage_distribution": { "Seed": 190, "Series A": 133, "Series B": 38, "Growth": 19 },
+    "employment_data": { "total_jobs": 25000, "avg_salary": 550000, "top_skills": ["Mining Tech", "Java", "Python", "Data Analytics", "Mobile Development"] }
+  },
+  "Madhya Pradesh": {
+    "fullName": "Madhya Pradesh",
+    "svgId": "INMP",
+    "totals": { "total_startups": 620, "unicorns_total": 4, "women_led_total": 124 },
+    "startups_by_sector": { "AgriTech": 220, "IT Services": 180, "Tourism Tech": 110, "EdTech": 70, "HealthTech": 40 },
+    "funding_by_sector": { "AgriTech": 1200, "IT Services": 980, "Tourism Tech": 620, "EdTech": 420, "HealthTech": 280 },
+    "startups_growth_yearly": { "2019": 210, "2020": 285, "2021": 375, "2022": 470, "2023": 550, "2024": 620 },
+    "top_cities_by_startups": { "Indore": 280, "Bhopal": 220, "Gwalior": 70, "Jabalpur": 50 },
+    "startup_stage_distribution": { "Seed": 310, "Series A": 217, "Series B": 62, "Growth": 31 },
+    "employment_data": { "total_jobs": 42000, "avg_salary": 580000, "top_skills": ["AgriTech", "Java", "Python", "Tourism Tech", "Mobile Apps"] }
+  },
+  "Manipur": {
+    "fullName": "Manipur",
+    "svgId": "INMN",
+    "totals": { "total_startups": 95, "unicorns_total": 0, "women_led_total": 19 },
+    "startups_by_sector": { "Handicrafts": 35, "Tourism Tech": 25, "AgriTech": 20, "IT Services": 10, "Sports Tech": 5 },
+    "funding_by_sector": { "Handicrafts": 180, "Tourism Tech": 140, "AgriTech": 110, "IT Services": 60, "Sports Tech": 40 },
+    "startups_growth_yearly": { "2019": 30, "2020": 42, "2021": 56, "2022": 70, "2023": 83, "2024": 95 },
+    "top_cities_by_startups": { "Imphal": 65, "Thoubal": 15, "Bishnupur": 10, "Churachandpur": 5 },
+    "startup_stage_distribution": { "Seed": 57, "Series A": 28, "Series B": 8, "Growth": 2 },
+    "employment_data": { "total_jobs": 4800, "avg_salary": 460000, "top_skills": ["Handicrafts", "Tourism Tech", "Organic Farming", "Sports Tech", "Web Development"] }
+  }
+,
+  "Meghalaya": {
+    "fullName": "Meghalaya",
+    "svgId": "INML",
+    "totals": { "total_startups": 110, "unicorns_total": 0, "women_led_total": 22 },
+    "startups_by_sector": { "Tourism Tech": 40, "AgriTech": 30, "Handicrafts": 20, "IT Services": 15, "Music Tech": 5 },
+    "funding_by_sector": { "Tourism Tech": 220, "AgriTech": 170, "Handicrafts": 120, "IT Services": 80, "Music Tech": 50 },
+    "startups_growth_yearly": { "2019": 35, "2020": 48, "2021": 64, "2022": 80, "2023": 96, "2024": 110 },
+    "top_cities_by_startups": { "Shillong": 75, "Tura": 20, "Jowai": 10, "Nongstoin": 5 },
+    "startup_stage_distribution": { "Seed": 66, "Series A": 33, "Series B": 9, "Growth": 2 },
+    "employment_data": { "total_jobs": 5500, "avg_salary": 490000, "top_skills": ["Tourism Tech", "Organic Farming", "Music Tech", "Handicrafts", "Web Development"] }
+  },
+  "Mizoram": {
+    "fullName": "Mizoram",
+    "svgId": "INMZ",
+    "totals": { "total_startups": 88, "unicorns_total": 0, "women_led_total": 18 },
+    "startups_by_sector": { "AgriTech": 32, "Tourism Tech": 24, "Handicrafts": 18, "IT Services": 10, "CleanTech": 4 },
+    "funding_by_sector": { "AgriTech": 170, "Tourism Tech": 130, "Handicrafts": 95, "IT Services": 55, "CleanTech": 35 },
+    "startups_growth_yearly": { "2019": 28, "2020": 38, "2021": 51, "2022": 64, "2023": 76, "2024": 88 },
+    "top_cities_by_startups": { "Aizawl": 60, "Lunglei": 15, "Champhai": 8, "Serchhip": 5 },
+    "startup_stage_distribution": { "Seed": 53, "Series A": 26, "Series B": 7, "Growth": 2 },
+    "employment_data": { "total_jobs": 4400, "avg_salary": 470000, "top_skills": ["Bamboo Tech", "AgriTech", "Tourism Tech", "Handicrafts", "Web Development"] }
+  },
+  "Nagaland": {
+    "fullName": "Nagaland",
+    "svgId": "INNL",
+    "totals": { "total_startups": 92, "unicorns_total": 0, "women_led_total": 18 },
+    "startups_by_sector": { "Tourism Tech": 30, "AgriTech": 28, "Handicrafts": 20, "IT Services": 10, "Music Tech": 4 },
+    "funding_by_sector": { "Tourism Tech": 160, "AgriTech": 150, "Handicrafts": 110, "IT Services": 60, "Music Tech": 40 },
+    "startups_growth_yearly": { "2019": 29, "2020": 40, "2021": 53, "2022": 67, "2023": 80, "2024": 92 },
+    "top_cities_by_startups": { "Kohima": 55, "Dimapur": 25, "Mokokchung": 8, "Tuensang": 4 },
+    "startup_stage_distribution": { "Seed": 55, "Series A": 28, "Series B": 7, "Growth": 2 },
+    "employment_data": { "total_jobs": 4600, "avg_salary": 480000, "top_skills": ["Tourism Tech", "Organic Farming", "Handicrafts", "Music Tech", "Web Development"] }
+  },
+  "Odisha": {
+    "fullName": "Odisha",
+    "svgId": "INOR",
+    "totals": { "total_startups": 580, "unicorns_total": 3, "women_led_total": 116 },
+    "startups_by_sector": { "IT Services": 200, "AgriTech": 160, "Mining Tech": 110, "Tourism Tech": 70, "HealthTech": 40 },
+    "funding_by_sector": { "IT Services": 1100, "AgriTech": 880, "Mining Tech": 680, "Tourism Tech": 420, "HealthTech": 280 },
+    "startups_growth_yearly": { "2019": 195, "2020": 265, "2021": 350, "2022": 440, "2023": 515, "2024": 580 },
+    "top_cities_by_startups": { "Bhubaneswar": 320, "Cuttack": 140, "Rourkela": 70, "Berhampur": 50 },
+    "startup_stage_distribution": { "Seed": 290, "Series A": 203, "Series B": 58, "Growth": 29 },
+    "employment_data": { "total_jobs": 38000, "avg_salary": 590000, "top_skills": ["Java", "Python", "AgriTech", "Mining Tech", "Data Analytics"] }
+  },
+  "Punjab": {
+    "fullName": "Punjab",
+    "svgId": "INPB",
+    "totals": { "total_startups": 680, "unicorns_total": 5, "women_led_total": 136 },
+    "startups_by_sector": { "AgriTech": 260, "IT Services": 180, "FinTech": 120, "EdTech": 80, "HealthTech": 40 },
+    "funding_by_sector": { "AgriTech": 1400, "IT Services": 980, "FinTech": 720, "EdTech": 520, "HealthTech": 320 },
+    "startups_growth_yearly": { "2019": 230, "2020": 310, "2021": 410, "2022": 515, "2023": 600, "2024": 680 },
+    "top_cities_by_startups": { "Mohali": 280, "Ludhiana": 220, "Amritsar": 120, "Jalandhar": 60 },
+    "startup_stage_distribution": { "Seed": 340, "Series A": 238, "Series B": 68, "Growth": 34 },
+    "employment_data": { "total_jobs": 45000, "avg_salary": 640000, "top_skills": ["AgriTech", "Java", "Python", "FinTech", "Mobile Development"] }
+  }
+,
+  "Sikkim": {
+    "fullName": "Sikkim",
+    "svgId": "INSK",
+    "totals": { "total_startups": 75, "unicorns_total": 0, "women_led_total": 15 },
+    "startups_by_sector": { "Tourism Tech": 30, "AgriTech": 20, "Handicrafts": 15, "IT Services": 7, "CleanTech": 3 },
+    "funding_by_sector": { "Tourism Tech": 160, "AgriTech": 110, "Handicrafts": 80, "IT Services": 45, "CleanTech": 30 },
+    "startups_growth_yearly": { "2019": 24, "2020": 33, "2021": 44, "2022": 55, "2023": 66, "2024": 75 },
+    "top_cities_by_startups": { "Gangtok": 50, "Namchi": 12, "Gyalshing": 8, "Mangan": 5 },
+    "startup_stage_distribution": { "Seed": 45, "Series A": 22, "Series B": 6, "Growth": 2 },
+    "employment_data": { "total_jobs": 3800, "avg_salary": 500000, "top_skills": ["Tourism Tech", "Organic Farming", "Handicrafts", "Eco Tourism", "Web Development"] }
+  },
+  "Tripura": {
+    "fullName": "Tripura",
+    "svgId": "INTRP",
+    "totals": { "total_startups": 105, "unicorns_total": 0, "women_led_total": 21 },
+    "startups_by_sector": { "AgriTech": 40, "IT Services": 28, "Handicrafts": 20, "Tourism Tech": 12, "EdTech": 5 },
+    "funding_by_sector": { "AgriTech": 210, "IT Services": 150, "Handicrafts": 110, "Tourism Tech": 70, "EdTech": 40 },
+    "startups_growth_yearly": { "2019": 33, "2020": 46, "2021": 61, "2022": 77, "2023": 92, "2024": 105 },
+    "top_cities_by_startups": { "Agartala": 70, "Udaipur": 18, "Dharmanagar": 10, "Kailashahar": 7 },
+    "startup_stage_distribution": { "Seed": 63, "Series A": 31, "Series B": 9, "Growth": 2 },
+    "employment_data": { "total_jobs": 5200, "avg_salary": 470000, "top_skills": ["AgriTech", "Bamboo Tech", "Handicrafts", "Java", "Web Development"] }
+  },
+  "Uttarakhand": {
+    "fullName": "Uttarakhand",
+    "svgId": "INUT",
+    "totals": { "total_startups": 380, "unicorns_total": 2, "women_led_total": 76 },
+    "startups_by_sector": { "Tourism Tech": 140, "AgriTech": 100, "IT Services": 80, "CleanTech": 40, "HealthTech": 20 },
+    "funding_by_sector": { "Tourism Tech": 780, "AgriTech": 560, "IT Services": 440, "CleanTech": 280, "HealthTech": 160 },
+    "startups_growth_yearly": { "2019": 125, "2020": 170, "2021": 225, "2022": 285, "2023": 335, "2024": 380 },
+    "top_cities_by_startups": { "Dehradun": 180, "Haridwar": 100, "Nainital": 60, "Roorkee": 40 },
+    "startup_stage_distribution": { "Seed": 190, "Series A": 133, "Series B": 38, "Growth": 19 },
+    "employment_data": { "total_jobs": 25000, "avg_salary": 580000, "top_skills": ["Tourism Tech", "Organic Farming", "Java", "Python", "Digital Marketing"] }
+  },
+  "West Bengal": {
+    "fullName": "West Bengal",
+    "svgId": "INWB",
+    "totals": { "total_startups": 1120, "unicorns_total": 9, "women_led_total": 224 },
+    "startups_by_sector": { "IT Services": 420, "EdTech": 280, "FinTech": 200, "HealthTech": 140, "AgriTech": 80 },
+    "funding_by_sector": { "IT Services": 2600, "EdTech": 1800, "FinTech": 1400, "HealthTech": 920, "AgriTech": 580 },
+    "startups_growth_yearly": { "2019": 380, "2020": 510, "2021": 670, "2022": 850, "2023": 990, "2024": 1120 },
+    "top_cities_by_startups": { "Kolkata": 720, "Siliguri": 220, "Durgapur": 100, "Asansol": 80 },
+    "startup_stage_distribution": { "Seed": 560, "Series A": 392, "Series B": 112, "Growth": 56 },
+    "employment_data": { "total_jobs": 75000, "avg_salary": 680000, "top_skills": ["Java", "Python", "React", "EdTech", "Data Analytics"] }
+  },
+  "Puducherry": {
+    "fullName": "Puducherry",
+    "svgId": "INPY",
+    "totals": { "total_startups": 145, "unicorns_total": 1, "women_led_total": 29 },
+    "startups_by_sector": { "Tourism Tech": 50, "IT Services": 40, "HealthTech": 25, "EdTech": 20, "AgriTech": 10 },
+    "funding_by_sector": { "Tourism Tech": 280, "IT Services": 220, "HealthTech": 160, "EdTech": 120, "AgriTech": 70 },
+    "startups_growth_yearly": { "2019": 48, "2020": 65, "2021": 86, "2022": 108, "2023": 127, "2024": 145 },
+    "top_cities_by_startups": { "Puducherry": 110, "Karaikal": 20, "Mahe": 10, "Yanam": 5 },
+    "startup_stage_distribution": { "Seed": 87, "Series A": 43, "Series B": 12, "Growth": 3 },
+    "employment_data": { "total_jobs": 9000, "avg_salary": 620000, "top_skills": ["Tourism Tech", "Java", "Python", "French Tech", "Web Development"] }
+  }
+,
+  "Chandigarh": {
+    "fullName": "Chandigarh",
+    "svgId": "INCH",
+    "totals": { "total_startups": 320, "unicorns_total": 3, "women_led_total": 64 },
+    "startups_by_sector": { "IT Services": 130, "FinTech": 80, "EdTech": 60, "HealthTech": 35, "E-commerce": 15 },
+    "funding_by_sector": { "IT Services": 720, "FinTech": 520, "EdTech": 380, "HealthTech": 240, "E-commerce": 140 },
+    "startups_growth_yearly": { "2019": 105, "2020": 145, "2021": 190, "2022": 240, "2023": 280, "2024": 320 },
+    "top_cities_by_startups": { "Chandigarh": 320 },
+    "startup_stage_distribution": { "Seed": 160, "Series A": 112, "Series B": 32, "Growth": 16 },
+    "employment_data": { "total_jobs": 22000, "avg_salary": 740000, "top_skills": ["Java", "Python", "React", "FinTech", "Mobile Development"] }
+  },
+  "Daman and Diu": {
+    "fullName": "Daman and Diu",
+    "svgId": "INDD",
+    "totals": { "total_startups": 42, "unicorns_total": 0, "women_led_total": 8 },
+    "startups_by_sector": { "Tourism Tech": 18, "IT Services": 12, "Manufacturing": 7, "FinTech": 3, "HealthTech": 2 },
+    "funding_by_sector": { "Tourism Tech": 95, "IT Services": 65, "Manufacturing": 45, "FinTech": 25, "HealthTech": 15 },
+    "startups_growth_yearly": { "2019": 14, "2020": 19, "2021": 25, "2022": 31, "2023": 37, "2024": 42 },
+    "top_cities_by_startups": { "Daman": 28, "Diu": 14 },
+    "startup_stage_distribution": { "Seed": 25, "Series A": 13, "Series B": 3, "Growth": 1 },
+    "employment_data": { "total_jobs": 2100, "avg_salary": 580000, "top_skills": ["Tourism Tech", "Manufacturing", "Web Development", "Digital Marketing", "Java"] }
+  },
+  "Dadra and Nagar Haveli": {
+    "fullName": "Dadra and Nagar Haveli",
+    "svgId": "INDN",
+    "totals": { "total_startups": 38, "unicorns_total": 0, "women_led_total": 8 },
+    "startups_by_sector": { "Manufacturing": 15, "AgriTech": 10, "IT Services": 8, "Tourism Tech": 3, "HealthTech": 2 },
+    "funding_by_sector": { "Manufacturing": 85, "AgriTech": 55, "IT Services": 45, "Tourism Tech": 20, "HealthTech": 15 },
+    "startups_growth_yearly": { "2019": 12, "2020": 17, "2021": 22, "2022": 28, "2023": 33, "2024": 38 },
+    "top_cities_by_startups": { "Silvassa": 38 },
+    "startup_stage_distribution": { "Seed": 23, "Series A": 11, "Series B": 3, "Growth": 1 },
+    "employment_data": { "total_jobs": 1900, "avg_salary": 560000, "top_skills": ["Manufacturing", "AgriTech", "Java", "Web Development", "Supply Chain"] }
+  },
+  "Lakshadweep": {
+    "fullName": "Lakshadweep",
+    "svgId": "INLD",
+    "totals": { "total_startups": 18, "unicorns_total": 0, "women_led_total": 4 },
+    "startups_by_sector": { "Tourism Tech": 10, "Marine Tech": 4, "IT Services": 2, "CleanTech": 1, "HealthTech": 1 },
+    "funding_by_sector": { "Tourism Tech": 55, "Marine Tech": 30, "IT Services": 15, "CleanTech": 8, "HealthTech": 7 },
+    "startups_growth_yearly": { "2019": 6, "2020": 8, "2021": 11, "2022": 13, "2023": 16, "2024": 18 },
+    "top_cities_by_startups": { "Kavaratti": 18 },
+    "startup_stage_distribution": { "Seed": 11, "Series A": 5, "Series B": 1, "Growth": 1 },
+    "employment_data": { "total_jobs": 900, "avg_salary": 520000, "top_skills": ["Tourism Tech", "Marine Tech", "Eco Tourism", "Web Development", "Digital Marketing"] }
+  },
+  "Andaman and Nicobar": {
+    "fullName": "Andaman and Nicobar",
+    "svgId": "INAN",
+    "totals": { "total_startups": 65, "unicorns_total": 0, "women_led_total": 13 },
+    "startups_by_sector": { "Tourism Tech": 28, "Marine Tech": 18, "IT Services": 10, "AgriTech": 6, "HealthTech": 3 },
+    "funding_by_sector": { "Tourism Tech": 150, "Marine Tech": 100, "IT Services": 55, "AgriTech": 35, "HealthTech": 20 },
+    "startups_growth_yearly": { "2019": 21, "2020": 29, "2021": 38, "2022": 48, "2023": 57, "2024": 65 },
+    "top_cities_by_startups": { "Port Blair": 55, "Diglipur": 6, "Rangat": 4 },
+    "startup_stage_distribution": { "Seed": 39, "Series A": 20, "Series B": 5, "Growth": 1 },
+    "employment_data": { "total_jobs": 3200, "avg_salary": 540000, "top_skills": ["Tourism Tech", "Marine Tech", "Eco Tourism", "Web Development", "Digital Marketing"] }
+  },
+  "Jammu and Kashmir": {
+    "fullName": "Jammu and Kashmir",
+    "svgId": "INJK",
+    "totals": { "total_startups": 420, "unicorns_total": 2, "women_led_total": 84 },
+    "startups_by_sector": { "Tourism Tech": 150, "Handicrafts": 110, "AgriTech": 80, "IT Services": 60, "EdTech": 20 },
+    "funding_by_sector": { "Tourism Tech": 820, "Handicrafts": 620, "AgriTech": 480, "IT Services": 360, "EdTech": 180 },
+    "startups_growth_yearly": { "2019": 140, "2020": 190, "2021": 250, "2022": 315, "2023": 370, "2024": 420 },
+    "top_cities_by_startups": { "Srinagar": 220, "Jammu": 150, "Anantnag": 30, "Baramulla": 20 },
+    "startup_stage_distribution": { "Seed": 210, "Series A": 147, "Series B": 42, "Growth": 21 },
+    "employment_data": { "total_jobs": 28000, "avg_salary": 560000, "top_skills": ["Tourism Tech", "Handicrafts", "Saffron Tech", "Apple Tech", "Web Development"] }
+  },
+  "Ladakh": {
+    "fullName": "Ladakh",
+    "svgId": "INLA",
+    "totals": { "total_startups": 52, "unicorns_total": 0, "women_led_total": 10 },
+    "startups_by_sector": { "Tourism Tech": 25, "CleanTech": 12, "Handicrafts": 8, "IT Services": 5, "AgriTech": 2 },
+    "funding_by_sector": { "Tourism Tech": 135, "CleanTech": 80, "Handicrafts": 50, "IT Services": 30, "AgriTech": 15 },
+    "startups_growth_yearly": { "2019": 16, "2020": 23, "2021": 30, "2022": 38, "2023": 45, "2024": 52 },
+    "top_cities_by_startups": { "Leh": 40, "Kargil": 12 },
+    "startup_stage_distribution": { "Seed": 31, "Series A": 16, "Series B": 4, "Growth": 1 },
+    "employment_data": { "total_jobs": 2600, "avg_salary": 520000, "top_skills": ["Tourism Tech", "Solar Energy", "Handicrafts", "Eco Tourism", "Web Development"] }
+  }
+}
